@@ -3,14 +3,14 @@
 }
 
 body {
-    background-color: #8986e0;
+    background-color: #86e0d1;
 }
 
 .boder {
     background-color: #d6116d;
 }
 .row > div {
-    border: 2px solid #ffffff;
+    border: 2px solid #3d11db;
 }
 
 .caja1 {
@@ -19,25 +19,25 @@ body {
 }
 
 .caja2 {
-    background-color: #d39529;
+    background-color: #29d337;
     height: 100px;
 }
 
 .caja3 {
-    background-color: #ecc021cc;
+    background-color: #ec2121cc;
     height: 100px;
 }
 
 .caja4 {
-    background-color: #d55e23;
+    background-color: #c9d523;
     height: 100px;
 }
 .caja5 {
-    background-color: #f5c117;
+    background-color: #7717f5;
     height: 100px;
 }
 .caja6 {
-    background-color: #dc8606;
+    background-color: #dc063b;
     height: 100px;
 }
 
@@ -47,17 +47,17 @@ body {
 }
 
 .caja8 {
-    background-color: #d5964a;
+    background-color: #634ad5;
     height: 100px;
 }
 
 .caja9 {
-    background-color: #f2bf47;
+    background-color: gi#e6c822;
     height: 100px;
 }
 
 .caja10 {
-    background-color: #d19107;
+    background-color: #07cad1;
     height: 100px;
 }
 
@@ -67,12 +67,12 @@ body {
 }
 
 .caja12 {
-    background-color: #d3250e;
+    background-color: #6dd30e;
     height: 100px;
 }
 
 .caja13 {
-    background-color: #ff961d;
+    background-color: #1da5ff;
     height: 100px;
 }
 @media (max-width: 767.98px) { .caja1 { height: 30px; }    
